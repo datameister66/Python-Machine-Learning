@@ -1,3 +1,3 @@
 # Jupyter Notebooks
 
-Please note that notebook 5, SVM and KNN I will put together later.
+Please note that notebook 5, SVM and KNN I will put together later after uploading everything else.
