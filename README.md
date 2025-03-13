@@ -5,7 +5,6 @@ This repository replicates the work done in MML with R, 3rd Edition. The dataset
 This repository is a sandbox for exploring machine learning concepts, implementing algorithms, and sharing practical examples. Expect ongoing updates as I refine the code, add new features, and incorporate feedback.
 
 ## Current Contents
-- **Scripts**: Basic Python scripts for ML tasks (e.g., data preprocessing, model training).
 - **Notebooks**: Jupyter notebooks demonstrating ML workflows (more to be added soon!).
 - **Datasets**: Sample datasets used in the projects (if applicable).
 
